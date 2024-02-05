@@ -1,0 +1,105 @@
+html, body{
+    margin: 0;
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.container {
+    margin: 0 auto;
+    width: 1110px;
+}
+
+
+
+
+.nav-item{
+    color: #0e0e0e;
+    text-decoration: none;
+   justify-content: right;
+    padding-left: -1000px;
+
+}
+
+
+
+.text{
+    text-align: center;
+    margin-top: -600px;
+    color: #ffffff;
+
+}
+
+.button_header{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid #217BF4
+}
+
+button{
+    padding: 8px 30px;
+    border:none;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+
+
+.text_phone{
+    text-align: center;
+    margin-top: 500px;
+}
+
+.text_phone h2{
+    font-size: 26px;
+    color: #323232;
+}
+
+.text_phone p{
+    color: rgba(153, 153, 153, 0.74);
+    font-size: 12px;
+}
+
+.services_img{
+    margin-top: 50px;
+}
+
+
+
+
+.block_services{
+    display: flex;
+
+
+}
+
+.services_button{
+    display:flex ;
+    justify-content: center;
+}
+
+
+
+.standarti{
+    background-color: #F6F6F8;
+}
+
+.standarti_text h2{
+    font-size: 32px;
+    color: #323232;
+}
+
+.standarti_text p{
+    font-size: 14px;
+    color: #999999;
+}
+
+.standarti_text a{
+    font-size: 14px;
+    color: #4985FF;
+}
+
